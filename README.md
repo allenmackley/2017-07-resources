@@ -9,7 +9,6 @@
   - reopen atom
   - Open this file within Atom.
   - With this file in focus `cmd-shift-P` to open the command pallet and run `mind` to get the preview
-  - TESTING A CHANGE
 
 ## General JavaScript
   - [Mozilla Developer Network(MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
